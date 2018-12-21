@@ -1,0 +1,10 @@
+The goal is to make the datamodel of a clinic to be able to schedule appointments
+
+- There are three types of persons to represent, the Patient, the Nurse and the Doctor
+- The Appointment class concerns at least a Patient and a Doctor, during a set date, and can also concern several nurses in case of an intervention.
+
+The objectives are as follow :
+
+- Create the datamodel as described above
+- Create a "main" method and instantiate the objects needed to create an appointment
+- Display on the console the patient, the doctor and the date of the appointment
